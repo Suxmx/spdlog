@@ -8,7 +8,7 @@
 
 Fast C++ logging library
 
-
+ 
 ## Install
 #### Header-only version
 Copy the include [folder](include/spdlog) to your build tree and use a C++11 compiler.
